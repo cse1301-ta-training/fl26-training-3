@@ -1,3 +1,5 @@
+package module7;
+
 public class Student {
     private String firstName;
     private String lastName;
@@ -112,6 +114,8 @@ public class Student {
      */
     public Student createLegacy(String firstName, Student otherParent,
                                 boolean isHyphenated, int id) {
+        // TODO: complete this practice method.
+        return null;
     }
 
     @Override

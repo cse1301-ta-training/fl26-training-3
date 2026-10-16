@@ -1,3 +1,5 @@
+package module7;
+
 public class Assignment7Practice {
     public static void main(String[] args) {
         Student firstParent = new Student("Alex", "Chen", 101);
